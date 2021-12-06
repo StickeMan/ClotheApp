@@ -1,0 +1,241 @@
+body {
+    font-family: 'Quicksand', 'Times New Roman', Times, serif;
+    color: #3f313f;
+    background-color: #FFEEDD;
+   
+    
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+    display: block;
+    width: 150px;
+    height:0px ;
+    text-align: right;
+    
+}
+
+.color1 {
+    display: block;
+    height: 200px;
+    width: 100px;
+    background-color: rgb(150, 53, 53);
+    background-image: linear-gradient(red, yellow, green);
+}
+
+.color1:hover {
+    background-image: repeating-radial-gradient(#1fa7a7, #7f8f8f, #c2c4c5);
+}
+.subtitulos {
+    background: rgb(51, 54, 94);
+    padding: 5px;
+}
+
+.subtitulos div {
+    display: inline-block;
+    width: 7%;
+    height: 50px;
+    /*border-color: #000;
+    border-style: solid;
+    border-width: 20px 50px;
+    border-radius: 20px;*/
+    text-align: center;
+}
+
+.subtitulos div:hover {
+    opacity: .50;
+}
+
+.sub1 {
+    background: #f3b46c;
+    margin: 10px;
+    margin-right:5cm;
+
+}
+
+.sub2 {
+    background: #f3b46c;
+    margin: 10px;
+    margin-right:8cm;
+    width: 7;
+    height: 30cms;
+    /*padding: 10px 0 0 200px;*/
+}
+.sub3 {
+    background: #f3b46c;
+    margin: 30px;
+    margin-left: 830px;
+}
+
+
+
+
+
+
+
+.boxes {
+    background: rgb(51, 54, 94);
+    padding: 10px;
+}
+
+.boxes div {
+    display: inline-block;
+    width: 8%;
+    height: 40px;
+    /*border-color: #000;
+    border-style: solid;
+    border-width: 20px 50px;
+    border-radius: 20px;*/
+    text-align: center;
+}
+
+.boxes div:hover {
+    opacity: .50;
+}
+
+.box1 {
+    background: #1dc5d8;
+    margin: 10px;
+}
+
+.box2 {
+    background: #1dc5d8;
+    margin: 10px;
+    /*padding: 10px 0 0 200px;*/
+}
+.box3 {
+    background: #1dc5d8;
+    margin: 10px;
+}
+
+.box4 {
+    background:#1dc5d8;
+    margin: 10px;
+    /*padding: 10px 0 0 200px;*/
+}
+.box5 {
+    background:#1dc5d8;
+    margin: 10px;
+}
+
+.box6 {
+    background:#1dc5d8;
+    margin: 10px;
+    
+    /*padding: 10px 0 0 200px;*/
+}
+.box7 {
+    background:#1dc5d8;
+    margin: 10px;
+}
+
+.box8 {
+    background: #1dc5d8;
+    margin: 10px;
+    /*padding: 10px 0 0 200px;*/
+}
+.box9 {
+    background:#1dc5d8;
+    margin: 10px;
+}
+
+.box10 {
+    background: #1dc5d8;
+    margin: 10px;
+    /*padding: 10px 0 0 200px;*/
+}
+
+.images {
+    background: #f3b46c;
+    padding: 15px;
+    
+}
+
+.images div {
+    display: inline-block;
+    width: 30%;
+    height: 3px;
+    /*border-color: #000;
+    border-style: solid;
+    border-width: 20px 50px;
+    border-radius: 20px;*/
+    text-align: center;
+     
+}
+.images div:hover {
+    opacity: .50;
+
+}
+
+.images1 {
+    
+    
+    background-image:url("../images/rebajasss.jpg");
+    background-position: right;
+    width: 600px;
+    height: 350px;
+}
+
+
+
+
+.cajas {
+    background: rgb(210, 209, 211);
+    padding: 15px;
+    
+}
+
+.cajas div {
+    display: inline-block;
+    width: 30%;
+    height: 120px;
+    /*border-color: #000;
+    border-style: solid;
+    border-width: 20px 50px;
+    border-radius: 20px;*/
+    text-align: center;
+    
+    
+}
+.cajas div:hover {
+    opacity: .50;
+}
+
+    
+.cajas1 {
+    background: #1dc5d8;
+    margin: 10px;
+}
+
+.cajas2 {
+    background: #1dc5d8;
+    margin: 10px;
+    /*padding: 10px 0 0 200px;*/
+}
+.cajas3 {
+    background: #1dc5d8;
+    margin: 10px;
+}
+
+
+.chat {
+    background: rgb(210, 209, 211);
+    padding: 5px;
+}
+
+.chat div {
+    display: inline-block;
+    width: 10%;
+    height: 10px;
+    text-align: right;
+}
+.chat div:hover {
+    opacity: .50;
+}
+
+.chat {
+    background: #1dc5d8;
+    margin: 5px;
+    margin-left: 20cm;
+}

@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(0, 165, 165);
+}
+
+.text-1,
+.text-2{
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.text-3,
+.text-4,
+.text-5,
+.text-6,
+.text-8,
+.text-9{
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;
+}
+
+.text-7{
+    width: 105px;
+    height: 35px;
+    margin-top: 20px;
+}
+
+.text-10{
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+}
+
+.icon1{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 1;
+    margin-right: 5px;
+}
+
+.icon7{
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 1;
+    margin-right: 5px;
+}

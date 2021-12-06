@@ -1,0 +1,202 @@
+body {
+    font-family: 'Quicksand', 'Times New Roman', Times, serif;
+    color: #4f5557;
+    background-color: #bcfbff;
+    background-size: 45%;
+    padding: 2%;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(85, 96, 247);
+    width: 20%;
+    height: 30%; 
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    background-color: #3cf564;
+    display: block;
+    width: 140px;
+    height: 40px;
+
+}
+
+.boxes {
+    background: rgb(72, 185, 238);
+    padding: 5px;
+}
+
+.boxes div {
+    display: inline-block;
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxes div:hover {
+    opacity: .50;
+}
+
+.box1 {
+    background: #d2e0e0;
+    margin: 5px;
+}
+
+.box2 {
+    background: #c2c4c5;
+    margin: 5px;
+}
+.box3 {
+background: lightgreen;
+margin: 5px;
+}
+.box4 {
+    background: lightsalmon;
+    margin: 5px;
+}
+.box5 {
+    background: mediumseagreen;
+    margin: 5px;
+}
+.box6{
+    background: orange;
+    margin: 5px;
+}
+.encabezado div{
+    font-family: cursive; 
+    text-align: center;
+}
+.menu{
+    background: rgb(40, 209, 167);
+    color:#4f5557;
+    width: 10%;
+    height: 5%;
+}
+.product{
+    background: rgb(127, 86, 240);
+    color: aliceblue;
+    width: 25%;
+    height: 5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.bigbox div{
+    display: inline-block;
+    padding: 5px;
+   
+}
+.images {
+    border-color: black;
+    background-image: url(https://litb-cgis.rightinthebox.com/images/640x853/202003/kjoabj1583467395533.jpg?fmt=webp&v=1);
+    padding: 2%;
+    width: 590px;
+    height: 800px;
+    
+}
+.description{
+    background: darkcyan;
+    padding: 2%;
+    width: 550px;
+    height: 800px ;
+    float: center;
+}
+.type div{
+    display: inline-block;
+    text-align: center;
+
+}
+.images1 {
+    background: deeppink;
+    padding: 2 2 2 2%;
+    width: 11.5%;
+    height: 11.3%;
+}
+.images2 {
+    background: deeppink;
+    padding: 2 2 2 2%;
+    width: 11.3%;
+    height: 11.3%;
+}
+.images3 {
+    background: deeppink;
+    padding: 2 2 2 2%;
+    width: 11.3%;
+    height: 11.3%;
+}
+.images4 {
+    background: deeppink;
+    padding: 2 2 2 2%;
+    width: 11.3%;
+    height: 11.3%;
+}
+.size1{
+    background: rgb(48, 255, 110);
+    padding: 2 2 2 2%;
+    width: 11.5%;
+    height: 11.3%;
+    float: right;
+    border:20%;
+}
+.size2{
+    background: rgb(58, 255, 58);
+    padding: 2 2 2 2%;
+    width: 11.5%;
+    height: 11.3%;
+    float: right;
+}
+.size3{
+    background: rgb(122, 230, 79);
+    padding: 2 2 2 2%;
+    width: 11.5%;
+    height: 11.3%;
+    float: right;
+}
+.size4{
+    background: rgb(75, 250, 69);
+    padding: 2 2 2 2%;
+    width: 11.5%;
+    height: 11.3%;
+    float: right;
+}
+
+
+.information div{
+  padding: 5px;  
+  display: table;
+}
+   
+.details {
+    background: chartreuse;
+    padding: 2%;
+    width: 570px;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+
+.price {
+    background: darkturquoise;
+    width: 13%;
+    height: 10%;
+}
+.time{
+    background: rosybrown;
+    width: 13%;
+    height: 10%;
+}
+.place{
+    background: burlywood;
+    width: 13%;
+    height: 10%;
+}
+.amoung {
+    background: chocolate;
+    width: 13%;
+    height: 10%;
+}
+.car {
+    background: darkgoldenrod;
+    width: 13%;
+    height: 10%;
+}
